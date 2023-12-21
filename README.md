@@ -1,5 +1,5 @@
-# Name: AMALJOSH MAADHAV J
-# Roll No: 23014023
+### Name: AMALJOSH MAADHAV J
+### Roll No: 23014023
 # Experiment 03: Implementation of flipflops using verilog
 # Aim
 To implement all the flipflops(SR, JK ,D & T) using verilog and validating their functionality using their functional tables
